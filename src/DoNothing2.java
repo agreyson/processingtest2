@@ -1,0 +1,2 @@
+public class DoNothing2 {
+}
